@@ -1,3 +1,6 @@
+'''This is the code for a music player
+In the gui, the centre part is for playing videos but all code related to it has been commented out as here on github, 
+the videos havent been uploaded. All the other features and functionalities are available except the video part'''
 from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
